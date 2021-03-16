@@ -1,0 +1,6 @@
+numpy
+pyyaml
+matplotlib
+sklearn
+bokeh
+pandas
